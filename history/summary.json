@@ -4,7 +4,7 @@
     "url": "https://sanyam-portfolio.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/sanyam-portfolio.netlify.app",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 339,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-07-03": 30,
       "2022-05-02": 30,
       "2022-04-05": 26,
