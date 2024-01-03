@@ -4,17 +4,19 @@
     "url": "https://sanyam-portfolio.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/sanyam-portfolio.netlify.app.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 72,
-    "timeWeek": 90,
-    "timeMonth": 114,
-    "timeYear": 192,
-    "dailyMinutesDown": {}
+    "time": 231,
+    "timeDay": 1550,
+    "timeWeek": 457,
+    "timeMonth": 205,
+    "timeYear": 200,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   }
 ]
