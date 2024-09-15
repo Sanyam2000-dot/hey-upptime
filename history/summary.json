@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanyam-portfolio.netlify.app.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 117,
-    "timeWeek": 258,
-    "timeMonth": 177,
-    "timeYear": 117,
+    "timeDay": 57,
+    "timeWeek": 219,
+    "timeMonth": 173,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2024-01-03": 16
     }
