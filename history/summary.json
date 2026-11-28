@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanyam-portfolio.netlify.app.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "76.61%",
+    "uptime": "76.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 139,
+    "time": 137,
     "timeDay": 62,
-    "timeWeek": 139,
-    "timeMonth": 133,
-    "timeYear": 144,
+    "timeWeek": 137,
+    "timeMonth": 129,
+    "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-11-27": 456,
+      "2026-11-28": 423,
+      "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
@@ -379,8 +380,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   }
 ]
